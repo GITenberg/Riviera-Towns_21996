@@ -1,0 +1,34 @@
+_repo: Riviera-Towns_21996
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hornby, Lester G. (Lester George)
+    alias: Hornby, Lester George
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '36547'
+    url: http://www.gutenberg.org/2009/agents/36547
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbons, Herbert Adams
+    birthdate: 1880
+    deathdate: 1934
+    gutenberg_agent_id: '25020'
+    url: http://www.gutenberg.org/2009/agents/25020
+description: ''
+gutenberg_issued: '2007-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Riviera (France) -- Description and travel'
+- !lcc 'DC'
+title: Riviera Towns
+url: http://www.gutenberg.org/ebooks/21996
